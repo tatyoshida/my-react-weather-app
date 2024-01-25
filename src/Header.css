@@ -1,0 +1,22 @@
+.Header {
+    text-align: center;
+  }
+  
+  .Search {
+    background: #e0dce9;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 15px 20px;
+    width: 60%;
+  }
+  
+  .Button {
+    background: #7b30c0;
+    color: #f7f7f9;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 15px 30px;
+    margin-left: 3px;
+  }  

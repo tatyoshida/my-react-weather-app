@@ -1,0 +1,11 @@
+.Footer {
+    text-align: center;
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: 40px;
+  }
+  
+  .Footer em {
+    color: #7b30c0;
+    font-weight: 400;
+  }
